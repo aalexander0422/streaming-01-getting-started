@@ -1,0 +1,27 @@
+
+======================================================================
+======================================================================
+ Welcome to the NW Python Debugging Information Utility!
+ Date and Time: 2023-08-27 at 01:43 PM
+ Operating System: posix Darwin 22.1.0
+ System Architecture: 64bit
+ Number of CPUs: 8
+ Machine Type: x86_64
+ Python Version: 3.10.5
+ Python Build Date and Compiler: v3.10.5:f377153967 with Jun  6 2022 12:36:10
+ Python Implementation: CPython
+ Active pip environment:   None
+ Active conda environment: None
+ Path to Interpreter:         /usr/local/bin/python3
+ Path to virtual environment: /Library/Frameworks/Python.framework/Versions/3.10
+ Current Working Directory:   /Users/ashleealexander/Documents/GitHub/streaming-01-getting-started
+ Path to source directory:    /Users/ashleealexander/Documents/GitHub/streaming-01-getting-started
+ Path to script file:         /Users/ashleealexander/Documents/GitHub/streaming-01-getting-started/util_about.py
+ User's Home Directory:       /Users/ashleealexander
+ Terminal Environment:        VS Code
+ Terminal Type:               zsh
+ Preferred command:           python3
+ Is python3 available in PATH:   True
+ Is git available in PATH:      True 
+======================================================================
+======================================================================
